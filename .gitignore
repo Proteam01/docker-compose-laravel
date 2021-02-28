@@ -1,5 +1,5 @@
 mysql
 .DS_Store
 .idea
-data/
+./data/
 src/node_modules/
